@@ -1,2 +1,2 @@
 # contador_palabras
-A simple word, character, blank spaces and lines counter
+A simple words, characters, blank spaces and lines counter
